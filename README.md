@@ -8,7 +8,7 @@
 
 <br/>
 
-Software developer with a passion for social impact, the great outdoors, and a weakness for great movies.
+Software developer with a social engagement, a love of nature, and a weakness for good films. 
 
 🚑 **Volunteer Paramedic (EMT-B)** &nbsp;|&nbsp; 🏔️ **Hiking & Skiing** &nbsp;|&nbsp; 🎬 **Movies & Series Geek**
 
