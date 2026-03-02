@@ -1,4 +1,18 @@
-## Hi there 👋
+<div align="center">
+
+<br/>
+
+# 👋 Hi there, I'm Michael
+
+`B.Sc. Software Engineer · FH Hagenberg · Code. Care. Conquer.`
+
+<br/>
+
+Software developer with a passion for social impact, the great outdoors, and a weakness for great movies.
+
+🚑 **Volunteer Paramedic (EMT-B)** &nbsp;|&nbsp; 🏔️ **Hiking & Skiing** &nbsp;|&nbsp; 🎬 **Movies & Series Geek**
+
+<br/>
 
 <!--
 **N0M4N5/N0M4N5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
