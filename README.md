@@ -2,13 +2,13 @@
 
 <br/>
 
-# 👋 Hi there, I'm Michael
+<h1>👋 Hi there, I'm Michael</h1>
 
-`B.Sc. Software Engineer · FH Hagenberg · Code. Care. Conquer.`
+`B.Sc. Software Engineer · FH Hagenberg · Codes with Care`
 
 <br/>
 
-Software developer with a social engagement, a love of nature, and a weakness for good films. 
+Software developer with a social engagement, a love for nature, and a weakness for good films. 
 
 🚑 **Volunteer Paramedic (EMT-B)** &nbsp;|&nbsp; 🏔️ **Hiking & Skiing** &nbsp;|&nbsp; 🎬 **Movies & Series Geek**
 
